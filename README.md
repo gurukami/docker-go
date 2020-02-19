@@ -12,5 +12,4 @@ This is a Dockerfile instructions to build a container image with **Golang** and
 	
 ## Versions
 
-* tag: **1.12** based on **golang:1.12**
 * tag: **1.13** based on **golang:1.13**
